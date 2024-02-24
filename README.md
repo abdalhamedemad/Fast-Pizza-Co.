@@ -32,7 +32,8 @@
 ## 🧐 About <a name = "about"></a>
 
 The pizza ordering application facilitates user interaction with a dynamic menu to select and place orders conveniently. It offers users the ability to specify pizza quantity, adjust quantities as desired, and express priority preferences for their orders. Automatic location detection expedites the ordering process. The application operates on a simplified model, devoid of user accounts and login requirements. Instead, users provide their names upon initiating app usage. Menu information is retrieved from an API, ensuring seamless updates to the menu contents.
-
+## 🚀 Live Demo <a name = "life_demo"></a>
+<a href="https://fastpizzaco23.netlify.app">Life Demo</a>
 ## 📸 Screenshots <a name = "screen_shots"></a>
 
 ### 🏠 Home Page
