@@ -23,20 +23,37 @@
 ## 📝 Table of Contents
 
 - [About](#about)
+- [Screen Shots](#screen_shots)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [License](#license)
 
 ## 🧐 About <a name = "about"></a>
 
 The pizza ordering application facilitates user interaction with a dynamic menu to select and place orders conveniently. It offers users the ability to specify pizza quantity, adjust quantities as desired, and express priority preferences for their orders. Automatic location detection expedites the ordering process. The application operates on a simplified model, devoid of user accounts and login requirements. Instead, users provide their names upon initiating app usage. Menu information is retrieved from an API, ensuring seamless updates to the menu contents.
 
-## 📸 Screenshots <a name = "screen shots"></a>
+## 📸 Screenshots <a name = "screen_shots"></a>
+
+### 🏠 Home Page
+
+![screenshot](https://github.com/abdalhamedemad/Fast-Pizza-Co./blob/main/screenshots/1.png?raw=true)
+
+### 🍕 Menu Page
+
+![screenshot](https://github.com/abdalhamedemad/Fast-Pizza-Co./blob/main/screenshots/2.png?raw=true)
+
+### 🛒 Cart Page
+
+![screenshot](https://github.com/abdalhamedemad/Fast-Pizza-Co./blob/main/screenshots/3.png?raw=true)
+
+### 📝 Order Page
+
+![screenshot](https://github.com/abdalhamedemad/Fast-Pizza-Co./blob/main/screenshots/4.png?raw=true)
+
+### 💯 Order Success Page
+
+![screenshot](https://github.com/abdalhamedemad/Fast-Pizza-Co./blob/main/screenshots/5.png?raw=true)
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
